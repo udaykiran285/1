@@ -293,8 +293,8 @@
 	grid-area: two;
 	background-image: url("https://colorlib.com/wp/wp-content/uploads/sites/2/pizza-cafe-food-website-template.jpg");
   }
-  .item3 { grid-area: three; background-image: url(../img/project03.png); }
-  .item4 { grid-area: four; background-image: url(../img/project04.png); }
+  .item3 { grid-area: three; background-image: url("https://miro.medium.com/v2/resize:fit:474/0*bWwTon6cdPRIAN_E"); }
+  .item4 { grid-area: four; background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtBWIQani6z0iIlXVyyfjydjlJPaUnoQRC4Mhh_s2P3MPMfm-hgl6CjQv2StnFLaj4zE&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtBWIQani6z0iIlXVyyfjydjlJPaUnoQRC4Mhh_s2P3MPMfm-hgl6CjQv2StnFLaj4zE&usqp=CAU"); }
   .item5 { grid-area: five; background-image: url(../img/project01.png);}
   
   .project-grid {
