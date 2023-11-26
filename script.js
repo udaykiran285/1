@@ -35,13 +35,13 @@ class Footer extends HTMLElement {
               </ul>
             </div>
             <div class="social-links text-center">
-            <a href="https://www.linkedin.com/in/iamdivyak/" class="social-link">
+            <a href="https://www.linkedin.com/in/uday-kiran-kuruvaa/" class="social-link">
             <i class="fa-brands fa-linkedin fa-2xl" style="color: #030303;"></i>
           </a><br>
-          <a href="https://twitter.com/Imdivyakumari" class="social-link">
+          <a href="https://www.linkedin.com/in/uday-kiran-kuruvaa/" class="social-link">
             <i class="fa-brands fa-twitter fa-2xl" style="color: #0a0a0a;"></i>
           </a><br>
-          <a href="https://github.com/Iamdivyak" class="social-link">
+          <a href="https://www.linkedin.com/in/uday-kiran-kuruvaa/" class="social-link">
             <i class="fa-brands fa-github fa-2xl" style="color: #0c0d0d;"></i>
           </a>
             </div>
